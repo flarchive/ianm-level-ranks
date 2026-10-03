@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ianm/level-ranks.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/level-ranks) or the [upstream repository](https://github.com/imorland/level-ranks).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/ianm-level-ranks/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/ianm-level-ranks/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-06-23 | `^1.0.2` | [Browse](https://github.com/flarchive/ianm-level-ranks/tree/archive/v1.0.0) |
+| `1.1.0` | 2022-06-08 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-level-ranks/tree/archive/v1.1.0) |
+| `1.1.1` | 2023-11-14 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-level-ranks/tree/archive/v1.1.1) |
 
 Catalog entry: [packages/ianm-level-ranks.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-level-ranks.json)
 
